@@ -1,0 +1,3 @@
+spring:
+  script:
+    enable: true
